@@ -30,11 +30,11 @@ The interface allows adjusting the following settings:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-project.git
+   git clone https://github.com/ameliapham/threejs-js-basic-project-3-runningFox.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd project-name
+   cd threejs-js-basic-project-3-runningFox
    ```
 3. Install dependencies:
    ```bash
