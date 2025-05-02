@@ -1,3 +1,5 @@
+![Screenshot 2025-05-02 at 03 07 29](https://github.com/user-attachments/assets/4b570294-b8d4-468f-9ed9-2ba9e3df215f)
+
 # ThreeJS 3D Scene with GUI
 
 This project is an interactive 3D scene built with Three.js, featuring a graphical user interface (GUI) that allows real-time control over various scene parameters.
